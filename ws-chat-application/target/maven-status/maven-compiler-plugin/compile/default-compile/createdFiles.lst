@@ -1,0 +1,3 @@
+com/example/wschatapplication/WsChatApplication.class
+com/example/wschatapplication/configuration/WebSocketConfiguration.class
+com/example/wschatapplication/handler/ChatWebSocketHandler.class
